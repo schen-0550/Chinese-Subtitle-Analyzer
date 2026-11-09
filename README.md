@@ -14,7 +14,6 @@ This project analyzes Episode 1 of *The Hope* and answers questions such as:
 - How much of the dialogue is covered by the most frequent vocabulary?
 - How many words are needed to reach 80%, 90%, and 95% vocabulary coverage?
 - How many words appear only once?
-- What is the average subtitle duration?
 
 ## Current Results
 
